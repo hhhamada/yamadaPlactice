@@ -1,0 +1,48 @@
+.Score{
+	position:absolute;
+	top:100px;
+	left:450px;
+}
+.Score2{
+	position:absolute;	
+	top:150px;
+	left:450px;
+	padding:15px 45px;
+	border:3px solid ;
+	border-color:red;
+}
+#can{
+	position:relative;
+}
+#can2{
+	width:300px;
+	height:600px;
+	position:absolute;
+	top:4px;
+	left:4px;
+}
+#can3{
+	width:150px;
+	height:150px;
+	position:absolute;
+	top:200px;
+	left:400px;
+	
+}
+#can4{
+	width:150px;
+	height:150px;
+	position:absolute;
+	top:430px;
+	left:400px;
+}
+.next{
+	position:absolute;
+	top:200px;
+	left:450px;
+}
+.hold{
+	position:absolute;
+	top:420px;
+	left:450px;
+}
